@@ -1,5 +1,5 @@
 ### 项目概述
-仍在完成[nlp-beginner](https://github.com/FudanNLP/nlp-beginner)的相关任务。数据并未整合进本项目。
+仍在完成[nlp-beginner](https://github.com/FudanNLP/nlp-beginner)的相关任务，使用Pytorch及torchtext完成。数据并未整合进本项目。
 
 ### Task1 基于机器学习的文本分类
 数据集：[Classify the sentiment of sentences from the Rotten Tomatoes dataset](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)  
